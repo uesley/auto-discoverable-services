@@ -1,0 +1,17 @@
+{
+    "name": "uesley/auto-discoverable-services",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Uesley\\AutoDiscoverableServices\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "uesleymelo",
+            "email": "uesley.eumesmo@gmail.com"
+        }
+    ],
+    "require": {}
+}
